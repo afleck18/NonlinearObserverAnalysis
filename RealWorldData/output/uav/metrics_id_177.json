@@ -1,0 +1,15 @@
+{
+  "selected_track_id": 177,
+  "fixed_rmse": 13.754174099984594,
+  "normalized_rmse": 11.430758290360055,
+  "improvement_percent": 16.892441470746988,
+  "num_valid_frames": 194,
+  "representative_frame_index": 231,
+  "improved": 1,
+  "empirical_sensitivity_threshold": 1.071004125748888,
+  "norm_precision_auc_fixed": 0.7634450171821305,
+  "norm_precision_auc_normalized": 0.7853951890034365,
+  "norm_precision_at_01_fixed": 0.8402061855670103,
+  "norm_precision_at_01_normalized": 0.8556701030927835,
+  "norm_precision_num_frames": 194
+}
